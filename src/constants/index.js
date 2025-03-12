@@ -45,7 +45,15 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["React", "Node.js", "MongoDB", "Shadcn"],
-    link: "https://github.com/Rishivenkatakousik/Ecommerce"
+    link: "https://deploy-shop-1-qyy9.onrender.com/shop/home"
+  },
+  {
+    title: "Smart Voyage",
+    image: Trip,
+    description:
+      "An AI-powered travel planner that creates personalized itineraries, suggests destinations, and optimizes travel plans.",
+    technologies: ["React", "Shadcn", "Firebase", "Tailwind"],
+    link: "https://travel-one-lime.vercel.app/"
   },
   {
     title: "BlogHaven",
@@ -54,14 +62,6 @@ export const PROJECTS = [
       "A full-stack blog app enables users to create, edit, and manage blog posts with a frontend UI, backend API, and database for storage..",
     technologies: ["React", "Node.js", "MongoDB", "Express"],
     link: "https://github.com/Rishivenkatakousik/Blogapp"
-  },
-  {
-    title: "Ai trip planner",
-    image: Trip,
-    description:
-      "An AI-powered travel planner that creates personalized itineraries, suggests destinations, and optimizes travel plans.",
-    technologies: ["React", "Shadcn", "Firebase", "Tailwind"],
-    link: "https://github.com/Rishivenkatakousik/Ai-Trip-Planner"
   },
 
 ];
