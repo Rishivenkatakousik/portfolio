@@ -31,7 +31,7 @@ const About = () => {
             <p className="mt-12 max-w-xl py-6">{ABOUT_TEXT}</p>
           </div>
           <ResumeDownloadButton
-            resumePath="https://drive.google.com/file/d/1Q5BoyRx8-Bc-NCNrO7zdUsIJLmU9RavH/view"
+            resumePath="https://drive.google.com/file/d/1tBVAqD9yFyz7D8ERzNyzHEjdWKpJq-Gr/view?usp=drive_link"
             resumeName="Rishi_Resume.pdf"
           />
         </motion.div>
